@@ -1,0 +1,24 @@
+F:\Поддержка и тестирование\Kadri AVZ\Kadri AVZ\bin\Debug\Kadri AVZ.exe.config
+F:\Поддержка и тестирование\Kadri AVZ\Kadri AVZ\bin\Debug\Kadri AVZ.exe
+F:\Поддержка и тестирование\Kadri AVZ\Kadri AVZ\bin\Debug\Kadri AVZ.pdb
+F:\Поддержка и тестирование\Kadri AVZ\Kadri AVZ\obj\Debug\Kadri AVZ.csproj.AssemblyReference.cache
+F:\Поддержка и тестирование\Kadri AVZ\Kadri AVZ\obj\Debug\Kadri_AVZ.Autorization.resources
+F:\Поддержка и тестирование\Kadri AVZ\Kadri AVZ\obj\Debug\Kadri_AVZ.Properties.Resources.resources
+F:\Поддержка и тестирование\Kadri AVZ\Kadri AVZ\obj\Debug\Kadri AVZ.csproj.GenerateResource.cache
+F:\Поддержка и тестирование\Kadri AVZ\Kadri AVZ\obj\Debug\Kadri AVZ.csproj.CoreCompileInputs.cache
+F:\Поддержка и тестирование\Kadri AVZ\Kadri AVZ\obj\Debug\Kadri AVZ.exe
+F:\Поддержка и тестирование\Kadri AVZ\Kadri AVZ\obj\Debug\Kadri AVZ.pdb
+F:\Поддержка и тестирование\Kadri AVZ\Kadri AVZ\obj\Debug\Kadri_AVZ.Form1.resources
+F:\Поддержка и тестирование\Kadri AVZ\Kadri AVZ\obj\Debug\Kadri_AVZ.Add_Form.resources
+D:\Практика Управление кадрами\Kadri AVZ\Kadri AVZ\bin\Debug\Kadri AVZ.exe.config
+D:\Практика Управление кадрами\Kadri AVZ\Kadri AVZ\bin\Debug\Kadri AVZ.exe
+D:\Практика Управление кадрами\Kadri AVZ\Kadri AVZ\bin\Debug\Kadri AVZ.pdb
+D:\Практика Управление кадрами\Kadri AVZ\Kadri AVZ\obj\Debug\Kadri AVZ.csproj.AssemblyReference.cache
+D:\Практика Управление кадрами\Kadri AVZ\Kadri AVZ\obj\Debug\Kadri_AVZ.Add_Form.resources
+D:\Практика Управление кадрами\Kadri AVZ\Kadri AVZ\obj\Debug\Kadri_AVZ.Autorization.resources
+D:\Практика Управление кадрами\Kadri AVZ\Kadri AVZ\obj\Debug\Kadri_AVZ.Form1.resources
+D:\Практика Управление кадрами\Kadri AVZ\Kadri AVZ\obj\Debug\Kadri_AVZ.Properties.Resources.resources
+D:\Практика Управление кадрами\Kadri AVZ\Kadri AVZ\obj\Debug\Kadri AVZ.csproj.GenerateResource.cache
+D:\Практика Управление кадрами\Kadri AVZ\Kadri AVZ\obj\Debug\Kadri AVZ.csproj.CoreCompileInputs.cache
+D:\Практика Управление кадрами\Kadri AVZ\Kadri AVZ\obj\Debug\Kadri AVZ.exe
+D:\Практика Управление кадрами\Kadri AVZ\Kadri AVZ\obj\Debug\Kadri AVZ.pdb
