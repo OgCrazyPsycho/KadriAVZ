@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+
+    margin: auto;
+}
+
+.back-header {
+    width: 100%;
+    height: 12vh;
+}
+
+.header-img {
+    width: 100%;
+    height: 100%;
+}
+
+.nav-header {
+    background: #23598c;
+
+    padding: 18px 0px;
+}
+
+.nav {
+    display: flex;
+    justify-content: start;
+
+    font-size: 21px;
+
+    text-transform: uppercase;
+
+    color: #fff;
+}
+
+.header-link {
+    color: #fff;
+}
+
+.header-link + .header-link {
+    margin-left: 75px;
+}
+
+.header {
+    margin-bottom: 75px;
+}
+
+.main-container {
+    display: flex;
+}
+
+.offer-form {
+    width: 70%;
+}
+
+.aside {
+    width: 30%;
+}
+
+.card {
+    padding: 10px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.profile {
+    width: 70%;
+}
+
+.avatar {
+    margin-bottom: 30px;
+}
+
+.worker-info {
+    padding: 5px;
+}
+
+.avatar-image {
+    width: 250px;
+    height: 250px;
+}
+
+.footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+
+    display: flex;
+    justify-content: space-around;
+
+    background: #333;
+
+    font-size: 21px;
+
+    padding: 15px 0px;
+}
+
+.footer-contact {
+    color: #fff;
+}
