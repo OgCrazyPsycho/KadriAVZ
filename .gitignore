@@ -1,0 +1,60 @@
+## Временные файлы Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build-выходы
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+
+## Rider / JetBrains
+.idea/
+
+## OS-специфичные файлы
+.DS_Store
+Thumbs.db
+
+## Log-файлы
+*.log
+
+## Кэш тестов
+TestResults/
+*.VisualState.xml
+*.vsp
+*.vspx
+*.vspscc
+*.vssscc
+*.cache
+
+## Резервные файлы
+*.bak
+*.tmp
+*.old
+*.orig
+
+## Файлы от dotCover
+*.dotCover
+
+## User-specific files
+*.userprefs
+
+## Auto-generated files
+Generated_Code/
+
+## Entity Framework Migrations metadata
+_Migrations/
+
+## Visual Studio Code
+.vscode/
